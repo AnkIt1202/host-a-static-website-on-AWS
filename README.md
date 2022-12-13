@@ -17,3 +17,5 @@
 - - Click on Hosted Zone under DNS Management
 - - Click on the domain name created for this project 
 - - Click on **Create Record** to point the S3 Bucket to our custom domain name
+
+Here's the website hosted on AWS: **http://ankitproject.link**
